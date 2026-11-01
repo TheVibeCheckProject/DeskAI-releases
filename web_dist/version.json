@@ -1,0 +1,7 @@
+{
+  "versionCode": 106,
+  "versionName": "2.38.2",
+  "changelog": "DeskAI v2.38.2 (Build 106): Updates now come from DeskAI's own public releases page, so the app's source code can be kept private. Nothing else changed.",
+  "downloadUrl": "https://raw.githubusercontent.com/TheVibeCheckProject/DeskAI-releases/main/DeskAI.apk",
+  "fileSizeBytes": 28403672
+}
