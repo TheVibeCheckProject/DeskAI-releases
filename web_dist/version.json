@@ -1,7 +1,7 @@
 {
-  "versionCode": 108,
-  "versionName": "2.40.0",
-  "changelog": "DeskAI v2.40.0 (Build 108): Watches are for anything now. In Schedules > Watches, New watch can watch email, a web page (tell me when something appears or disappears, or any real change, with an optional AI check), a web search (new results) or your calendar (before events). And NASA's picture of the day on Today is now a big picture card.",
+  "versionCode": 109,
+  "versionName": "2.41.0",
+  "changelog": "DeskAI v2.41.0 (Build 109): Today is tidier. Trivia and On this day are now two small decks instead of a new card every day: tap one and the card opens in the middle of the screen, then swipe through them. A dot shows what you haven't answered or seen.",
   "downloadUrl": "https://raw.githubusercontent.com/TheVibeCheckProject/DeskAI-releases/main/DeskAI.apk",
-  "fileSizeBytes": 28647841
+  "fileSizeBytes": 28501972
 }
