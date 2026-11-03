@@ -1,7 +1,7 @@
 {
-  "versionCode": 107,
-  "versionName": "2.39.0",
-  "changelog": "DeskAI v2.39.0 (Build 107): Schedules now has a Watches tab. See every mail watch (what it matches, how many it found, when it last checked, and any problem), stop one, or add a new watch by hand: Zoho, Gmail or both, every new email or only mail from a sender, subject or words.",
+  "versionCode": 108,
+  "versionName": "2.40.0",
+  "changelog": "DeskAI v2.40.0 (Build 108): Watches are for anything now. In Schedules > Watches, New watch can watch email, a web page (tell me when something appears or disappears, or any real change, with an optional AI check), a web search (new results) or your calendar (before events). And NASA's picture of the day on Today is now a big picture card.",
   "downloadUrl": "https://raw.githubusercontent.com/TheVibeCheckProject/DeskAI-releases/main/DeskAI.apk",
-  "fileSizeBytes": 28469199
+  "fileSizeBytes": 28647841
 }
